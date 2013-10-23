@@ -47,7 +47,7 @@
 #
 # Module Name:
 #
-#    UEFI_SCT.dsc
+#    UEFI_SCT.dsc*************
 #
 # Abstract:
 #
